@@ -3,10 +3,10 @@ $ =============================================================
 $ ========== USER MACROS ======================================
 $ =============================================================
 $
-|AUTHOR|    = YOUR NAME 
-|AUTHORREF| = 
-|EMAIL|     = 
-|COMPANY|   = 
+|AUTHOR|    = Julien Cordry
+|AUTHORREF| = jco
+|EMAIL|     = jcordry@ymail.com
+|COMPANY|   = Teesside University, Middlesbrough, UK
 |COPYRIGHT| = Copyright (c) |YEAR|, |AUTHOR|
 |STYLE|     = default
 $
